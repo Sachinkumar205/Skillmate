@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="32" viewBox="0 0 160 32" fill="none">
+  <defs>
+    <linearGradient id="g1" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#4F46E5" />
+      <stop offset="100%" stop-color="#06B6D4" />
+    </linearGradient>
+  </defs>
+  <rect width="160" height="32" rx="6" fill="transparent" />
+  <!-- Mark -->
+  <g transform="translate(6,4)">
+    <circle cx="12" cy="12" r="12" fill="url(#g1)" />
+    <path d="M7 18 L11 9 L15 18" stroke="#fff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+    <circle cx="11" cy="11.5" r="2.2" fill="#fff" />
+  </g>
+  <!-- Wordmark -->
+  <text x="40" y="20" fill="#0F172A" font-family="Poppins, Helvetica, Arial, sans-serif" font-size="14" font-weight="700">SkillMate</text>
+</svg>
