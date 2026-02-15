@@ -231,28 +231,6 @@ npm run dev
 # Frontend runs on http://localhost:5173
 ```
 
-### Option 2: Using npm scripts (from root)
-
-If you've set up workspace scripts:
-```bash
-npm run dev:all
-```
-
-### Building for Production
-
-**Frontend Build:**
-```bash
-cd my-app
-npm run build
-# Output in my-app/dist/
-```
-
-**Backend:**
-```bash
-cd backend
-npm run build  # if applicable
-```
-
 ---
 
 ## 📚 Key Routes
@@ -420,11 +398,6 @@ We welcome contributions! Here's how you can help:
 - Test your changes before submitting PR
 - Update documentation as needed
 
----
-
-## 📝 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -456,10 +429,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-<div align="center">
 
-**Made with ❤️ by SkillMate Team**
 
-[⭐ Star us on GitHub](https://github.com/yourusername/skillmate) | [🐛 Report Issues](https://github.com/yourusername/skillmate/issues) | [🚀 See What's New](https://github.com/yourusername/skillmate/releases)
-
-</div>
